@@ -1,5 +1,5 @@
 # graincloud
-# Title:'The State of America', 2020
+# Title: 'The State of America', 2020
 
 ## This was my final project for my Introduction to Max/MSP course with dadageek, Austin TX. 
 ## This is a grain cloud generator that processed a series of audio samples related to the Trump presidency and protests.The grain clouds distorted the samples over time.
